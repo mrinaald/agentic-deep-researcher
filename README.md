@@ -27,3 +27,8 @@ Test whether environment setup is working properly or not using:
 ```sh
 python tests/agent_test.py
 ```
+
+To run the agent:
+```sh
+python search_agent.py
+```
