@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# author: Mrinaal Dogra (azadmrinaal@gmail.com)
+# author: Mrinaal Dogra (mrinaald)
 
 import argparse
 
